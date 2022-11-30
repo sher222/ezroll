@@ -7,17 +7,17 @@ DISCLAMER: This device has not been tested by any person with limited mobility a
 
 This project was designed as part of the Compassionate Design class at Stanford University. It includes 2 3D printed toilet paper add ons that allow a person with limited mobility (only use of one hand) to be able to independently tear toilet paper and thus use the bathroom.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-dQ2YQPnURs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-dQ2YQPnURs" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # EzRoll Tear
-![Picture of EzRoll tear in test setup](assets/images/EzRoll Tear.jpeg)
+![Picture of EzRoll tear in test setup](assets/images/EzRollTear.jpeg)
 
 The idea behind EzRoll Tear is that the user can pull the piece of toilet paper against a blade. EzRoll Tear prints in 6 pieces - the main body, blade, two legs, and two extensions. The legs and extensions slot into each other so that the device can fit any toilet paper holder. This also allows the angle of the device to be adjusted. The blade is 3D printed and very dull (duller than a butter knife).
 
 Once all parts have printed, you should super glue the legs and blade to the main body. [Suction cups](https://www.amazon.com/dp/B08LZRS8NC?ref=ppx_yo2ov_dt_b_product_details&th=1) need to be hot glued to the end of the extensions to hold the device in place. If the suction cups don't stick to your bathroom wall, try placing a piece of packing tape over the wall.
 # EzRoll Squeeze
 
-![Picture of EzRoll squeeze in test setup](assets/images/EzRoll Squeeze.jpeg)
+![Picture of EzRoll squeeze in test setup](assets/images/EzRollSqueeze.jpeg)
 
 EzRoll Squeeze was inspired by perfect tear paper towel rolls. The idea is to use 3D printed parts connected by elastic bands to create friction and thus allow the user to tear the toilet paper without the toilet paper roll moving. In addition, because of the friction, it is more difficult to roll out toilet paper. For people who struggle to tear the correct amount, this could prevent them from accidentally rolling out too much.
 
